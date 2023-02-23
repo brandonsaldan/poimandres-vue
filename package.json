@@ -3,7 +3,7 @@
   "icon": "assets/pmndrs-vue.png",
   "displayName": "poimandres-vue",
   "description": "improved vue syntax styling for the poimandres theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "poimandres-vue",
     "pmndrs-vue"
