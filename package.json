@@ -1,12 +1,12 @@
 {
-  "name": "vue-pmndrs",
-  "icon": "assets/vue-pmndrs.png",
-  "displayName": "vue-poimandres",
+  "name": "pmndrs-vue",
+  "icon": "assets/pmndrs-vue.png",
+  "displayName": "poimandres-vue",
   "description": "improved vue syntax styling for the poimandres theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
-    "vue-poimandres",
-    "vue-pmndrs"
+    "poimandres-vue",
+    "pmndrs-vue"
   ],
   "files": [
     "index.js"
@@ -15,7 +15,7 @@
     "dev": "node src/watcher"
   },
   "author": "Paul Henschel & Brandon Saldan",
-  "publisher": "BrandonSaldan",
+  "publisher": "brandonsaldan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brandonsaldan/poimandres-vue/issues"
@@ -34,22 +34,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "vue-poimandres",
+        "label": "poimandres-vue",
         "uiTheme": "vs-dark",
         "path": "./themes/poimandres-color-theme.json"
       },
       {
-        "label": "vue-poimandres-noitalics",
+        "label": "poimandres-vue-noitalics",
         "uiTheme": "vs-dark",
         "path": "./themes/poimandres-color-theme-noitalics.json"
       },
       {
-        "label": "vue-poimandres-storm",
+        "label": "poimandres-vue-storm",
         "uiTheme": "vs-dark",
         "path": "./themes/poimandres-color-theme-storm.json"
       },
       {
-        "label": "vue-poimandres-noitalics-storm",
+        "label": "poimandres-vue-noitalics-storm",
         "uiTheme": "vs-dark",
         "path": "./themes/poimandres-color-theme-noitalics-storm.json"
       }

@@ -1,11 +1,11 @@
 <p align="middle">
   <img src="assets/dots.png" width="200" />
-  <img src="assets/vue-pmndrs.png" width="200" />
+  <img src="assets/screencap.png" />
 </p>
 
-Vue-Poimandres is a version of the [Poimandres](https://github.com/drcmda/poimandres-theme) theme for VS Code with improved Vue syntax styling.
+poimandres-vue is a version of the [poimandres](https://github.com/drcmda/poimandres-theme) theme for vs code with improved vue syntax styling.
 
-To be honest, I have never made a VS Code theme before, so I have no idea what I'm doing. I just wanted pretty colors for my Vue code. It works for me but use at your own risk lol.
+to be honest, i have never made a vs code theme before, so i have no idea what I'm doing. i just wanted pretty colors for my vue code. it works for me but use at your own risk lol.
 
 #### Contribute
 
