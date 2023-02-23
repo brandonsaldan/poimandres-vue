@@ -36,22 +36,22 @@
       {
         "label": "poimandres-vue",
         "uiTheme": "vs-dark",
-        "path": "./themes/poimandres-color-theme.json"
+        "path": "./themes/poimandres-vue-color-theme.json"
       },
       {
         "label": "poimandres-vue-noitalics",
         "uiTheme": "vs-dark",
-        "path": "./themes/poimandres-color-theme-noitalics.json"
+        "path": "./themes/poimandres-vue-color-theme-noitalics.json"
       },
       {
         "label": "poimandres-vue-storm",
         "uiTheme": "vs-dark",
-        "path": "./themes/poimandres-color-theme-storm.json"
+        "path": "./themes/poimandres-vue-color-theme-storm.json"
       },
       {
         "label": "poimandres-vue-noitalics-storm",
         "uiTheme": "vs-dark",
-        "path": "./themes/poimandres-color-theme-noitalics-storm.json"
+        "path": "./themes/poimandres-vue-color-theme-noitalics-storm.json"
       }
     ]
   },
