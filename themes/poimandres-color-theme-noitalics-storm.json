@@ -1174,6 +1174,54 @@
         "settings": {
           "foreground": "#a6accd"
         }
+      },
+      {
+        "scope": ["entity.name.tag.template.html", "source.vue"],
+        "settings": {
+          "foreground": "#ADD7FF"
+        }
+      },
+      {
+        "scope": ["entity.name.tag.block.any.html", "meta.tag.block.any.html", "text.html.vue-html", "source.vue"],
+        "settings": {
+          "foreground": "#ADD7FF"
+        }
+      },
+      {
+        "scope": ["text.html.vue-html", "source.vue"],
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
+      },
+      {
+        "scope": ["variable.other.readwrite.js", "source.directive.vue", "meta.directive.vue", "meta.tag.block.any.html", "source.vue"],
+        "settings": {
+          "foreground": "#fffac2"
+        }
+      },
+      {
+        "scope": ["variable.other.object.js", "source.directive.vue", "meta.directive.vue", "meta.tag.block.any.html", "source.vue"],
+        "settings": {
+          "foreground": "#fffac2"
+        }
+      },
+      {
+        "scope": ["support.class.component.html", "meta.tag.block.any.html", "source.vue"],
+        "settings": {
+          "foreground": "#f087bd"
+        }
+      },
+      {
+        "scope": ["string.quoted.double.html", "string.quoted.single.js", "meta.tag.block.any.html", "text.html.vue-html", "source.vue"],
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
+      },
+      {
+        "scope": ["string.template.js", "source.directive.vue", "meta.directive.vue", "meta.tag.block.any.html", "text.html.vue-html", "source.vue"],
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
       }
     ]
   }
