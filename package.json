@@ -39,6 +39,11 @@
         "path": "./themes/poimandres-vue-color-theme.json"
       },
       {
+        "label": "poimandres-vue-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/poimandres-vue-color-theme-dark.json"
+      },
+      {
         "label": "poimandres-vue-noitalics",
         "uiTheme": "vs-dark",
         "path": "./themes/poimandres-vue-color-theme-noitalics.json"
