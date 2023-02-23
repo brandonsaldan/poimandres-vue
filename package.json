@@ -5,11 +5,8 @@
   "description": "improved vue syntax styling for the poimandres theme",
   "version": "0.0.1",
   "keywords": [
-    "poimandres",
-    "pmndrs",
-    "vsc",
-    "dark",
-    "theme"
+    "vue-poimandres",
+    "vue-pmndrs"
   ],
   "files": [
     "index.js"
