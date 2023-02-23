@@ -1,6 +1,6 @@
 <p align="middle">
   <img src="assets/dots.png" width="200" />
-  <img src="assets/vue-pmndrs" />
+  <img src="assets/vue-pmndrs.png" />
 </p>
 
 Vue-Poimandres is a version of the [Poimandres](https://github.com/drcmda/poimandres-theme) theme for VS Code with improved Vue syntax styling.
